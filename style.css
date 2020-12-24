@@ -1,0 +1,28 @@
+/* body{
+    background:#721b65;
+    display: flex;
+    justify-content: center;
+}
+
+*/ 
+
+
+
+
+/*
+canvas{
+  background:black;
+  border: 4px solid #ffd868;
+}
+*/
+
+
+
+h1 {
+    color: black;
+    font-family: verdana;
+    position: absolute;
+    width: 100px;
+    height: 500px;
+
+}
